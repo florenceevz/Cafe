@@ -1,0 +1,111 @@
+@charset "utf-8";
+/* CSS Document */
+#banner1 { height: 800px;
+     width: 1200px; 
+     align-self: center;
+    margin: auto;
+}
+.bigparent { display: flex;
+  align-items: center; justify-content: center;
+
+}
+#texto1 { 
+    height: 200px;
+     width: 200px; 
+    border-color: black;
+     background-color: #FFFFFF;
+    position: absolute;
+      margin-bottom: 75px;
+    margin-top: 75px;
+    margin-left: auto;
+    margin-right: 1000px;
+    align-items: center;
+    padding: 10px;
+
+} 
+
+body {
+    font-family: 'Cabin', sans-serif;
+font-family: 'Montserrat', sans-serif;
+} 
+
+.button {
+  background-color: #555555; / black */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+#imagen centro { height: 800px;
+     width: 800px;
+align-self: center;
+margin: auto;
+     padding: 50px;
+
+} 
+
+.smallparent {
+    height: 300px;
+    width: 1300px;
+    align-self: center;
+    display: flex;
+  align-items: center; justify-content: center;
+}
+#imagen1 {
+align-self: center;
+     position: relative;
+     width: 60%;
+    margin-left: 200px;
+}
+
+#texto2 { align-self: center;
+     position: relative;
+}
+#banner2 { 
+    padding-left: 90px;
+    object-fit: cover;
+     align-self: center;
+    margin: auto;
+}
+#videos {
+    height: 655px;
+    width: 1300px;
+    padding-left: 90px;
+    padding-top: 90px;
+}
+#video1 {
+    height: 315px;
+     width: 560px;
+     position: absolute;
+    margin-bottom: 80px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 80px;
+} 
+
+#video2 {
+height: 50px;
+     width: 50px;
+     position: absolute;
+    margin-bottom: 80px;
+    margin-top: 20px;
+    margin-left: 750px;
+    margin-right: 20px;
+}
+#planta {
+    display: flex;
+  align-items: center;
+  justify-content: center;
+    padding-bottom: 180px;
+}
+a {
+  color: white;
+}
+
+a:link {
+  text-decoration: none;
+}
